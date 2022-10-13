@@ -1,7 +1,7 @@
 # Created by newuser for 5.8.1
 
 # Prompt
-PROMPT='%F{White}%1~%f %F{White}>_%f  '
+PROMPT='%F{White}%1~%f %F{White}$%f  '
 
 # Alias
 alias vim="nvim"
