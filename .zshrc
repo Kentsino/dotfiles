@@ -1,7 +1,8 @@
 # Created by newuser for 5.8.1
 
 # Prompt
-PROMPT='%F{White}%1~%f %F{White}$%f  '
+#PROMPT='%F{White}%1~%f %F{White}$%f  '
+PROMPT='[wakasagihime@arch ~] $ '
 
 # Alias
 alias vim="nvim"
