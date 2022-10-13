@@ -1,5 +1,5 @@
 " Colorscheme"
-colorscheme nord
+colorscheme tokyo
 
 " Basic config"
 set termguicolors
