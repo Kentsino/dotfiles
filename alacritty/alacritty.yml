@@ -16,7 +16,7 @@ cursor:
   thickness: 0.15
 
 import:
-  - ~/.config/alacritty/tokyonight.yml
+  # - ~/.config/alacritty/tokyonight.yml
   # - ~/.config/alacritty/catppuccin-mocha.yml
   # - ~/.config/alacritty/sonokai-andromeda.yml
   # - ~/.config/alacritty/onedark.yml
@@ -28,3 +28,4 @@ import:
   # - ~/.config/alacritty/decay.yml
   # - ~/.config/alacritty/catppuccin-latte.yml
   # - ~/.config/alacritty/dracula.yml
+  - ~/.config/alacritty/3024dark.yml

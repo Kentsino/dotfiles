@@ -1,0 +1,27 @@
+colors:
+  name: 3024 (dark)
+  author: Chris Kempson
+  primary:
+    background: "#1a1b26"
+    foreground: "#a9b1d6"
+  cursor:
+    text: "#090300"
+    cursor: "#4e5173"
+  normal:
+    black: "#090300"
+    red: "#F7768E"
+    green: "#9ECE6A"
+    yellow: "#E0AF68"
+    blue: "#7AA2F7"
+    magenta: "#9a7ecc"
+    cyan: "#4abaaf"
+    white: "#acb0d0"
+  bright:
+    black: "#090300"
+    red: "#F7768E"
+    green: "#9ECE6A"
+    yellow: "#E0AF68"
+    blue: "#7AA2F7"
+    magenta: "#9a7ecc"
+    cyan: "#4abaaf"
+    white: "#acb0d0"
