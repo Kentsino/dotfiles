@@ -4,19 +4,22 @@ window:
     y: 5
 
 font:
-  size: 9.4
+  size: 11.9
 
 cursor:
   style:
-    shape: Block
-    blinking: Always
+    shape: Beam
+    # blinking: Always
   vi_mode_style: None
   blink_interval: 750
   blink_timeout: 5
   thickness: 0.15
 
 import:
+  - ~/.config/alacritty/doomonedark.yml
+  # - ~/.config/alacritty/twmtokyo.yml
   # - ~/.config/alacritty/tokyonight.yml
+  # - ~/.config/alacritty/nord.yml
   # - ~/.config/alacritty/catppuccin-mocha.yml
   # - ~/.config/alacritty/sonokai-andromeda.yml
   # - ~/.config/alacritty/onedark.yml
@@ -28,4 +31,4 @@ import:
   # - ~/.config/alacritty/decay.yml
   # - ~/.config/alacritty/catppuccin-latte.yml
   # - ~/.config/alacritty/dracula.yml
-  - ~/.config/alacritty/3024dark.yml
+  # - ~/.config/alacritty/3024dark.yml
